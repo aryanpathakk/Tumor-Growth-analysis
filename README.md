@@ -33,7 +33,7 @@ Tumor volume (mm³) for **37 mice** in four groups (Control 8, Drug 10, Radiatio
 
 ## Limitations (what the data does not support)
 - **Mice leave the study.** Most mice were last measured with tumors above 1,500 mm³, so late-day averages rest on 1-3 mice and the curves flatten partly because large tumors are gone. Estimates of carrying capacity (K) are therefore unreliable.
-- **Each daily average mixes different mice,** since only 3-10 mice were measured on a given day.
+- **Each daily average mixes different mice,** since only 1-10 mice were measured on a given day.
 - **Starting volume matters.** With V0 left free, fitted values were far from the observed ~50 mm³ and inflated growth rates. Constraining V0 changed the ranking of groups by growth rate.
 - Small samples (8-10 mice per group) and no parameter confidence intervals.
 
