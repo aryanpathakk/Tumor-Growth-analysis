@@ -3,7 +3,7 @@
 Team project by **Aryan Pathak** and **Rohit Narwal** (University of Idaho, Applied Modeling & Data Science).
 Original team repository: https://github.com/rohitN04/mathematics-biology-model
 
-**My contributions:** [EDIT THIS LINE. Example: "Fit and compared the models, built the figures, and wrote the Methods and Results sections." Only list what you did.]
+**My contributions:** Checked and compared the model results across the four treatment groups, and prepared the final project presentation. In this repo I extended the original analysis with a data check (mice leaving the study), a train/test prediction test, and per-mouse model fits.
 
 ## Question
 Which classical growth model (Exponential, Logistic, Gompertz, Power Law) best *describes* and best *predicts* tumor growth in mice under four treatments?
